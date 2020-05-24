@@ -985,11 +985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Savorok\\Desktop\\Vis studio projects\\LevelGen\\LevelGen\\LevelGen.csproj",
+      "projectUniqueName": "C:\\Users\\Savorok\\Desktop\\Dungeon-Game\\Oisin's code\\LevelGen\\LevelGen\\LevelGen.csproj",
       "projectName": "LevelGen",
-      "projectPath": "C:\\Users\\Savorok\\Desktop\\Vis studio projects\\LevelGen\\LevelGen\\LevelGen.csproj",
+      "projectPath": "C:\\Users\\Savorok\\Desktop\\Dungeon-Game\\Oisin's code\\LevelGen\\LevelGen\\LevelGen.csproj",
       "packagesPath": "C:\\Users\\Savorok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Savorok\\Desktop\\Vis studio projects\\LevelGen\\LevelGen\\obj\\",
+      "outputPath": "C:\\Users\\Savorok\\Desktop\\Dungeon-Game\\Oisin's code\\LevelGen\\LevelGen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
