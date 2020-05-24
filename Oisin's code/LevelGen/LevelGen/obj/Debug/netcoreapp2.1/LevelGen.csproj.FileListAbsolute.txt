@@ -1,0 +1,16 @@
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\bin\Debug\netcoreapp2.1\LevelGen.deps.json
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\bin\Debug\netcoreapp2.1\LevelGen.runtimeconfig.json
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\bin\Debug\netcoreapp2.1\LevelGen.runtimeconfig.dev.json
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\bin\Debug\netcoreapp2.1\LevelGen.dll
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\bin\Debug\netcoreapp2.1\LevelGen.pdb
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\obj\Debug\netcoreapp2.1\LevelGen.csprojAssemblyReference.cache
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\obj\Debug\netcoreapp2.1\LevelGen.csproj.CoreCompileInputs.cache
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\obj\Debug\netcoreapp2.1\LevelGen.AssemblyInfoInputs.cache
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\obj\Debug\netcoreapp2.1\LevelGen.AssemblyInfo.cs
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\obj\Debug\netcoreapp2.1\LevelGen.dll
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\obj\Debug\netcoreapp2.1\LevelGen.pdb
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\bin\Debug\netcoreapp2.1\System.Windows.Forms.dll
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\bin\Debug\netcoreapp2.1\Accessibility.dll
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\bin\Debug\netcoreapp2.1\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\bin\Debug\netcoreapp2.1\System.Deployment.dll
+C:\Users\Savorok\Desktop\Vis studio projects\LevelGen\LevelGen\obj\Debug\netcoreapp2.1\LevelGen.csproj.CopyComplete
