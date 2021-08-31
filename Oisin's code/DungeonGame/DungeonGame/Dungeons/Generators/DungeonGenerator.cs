@@ -226,6 +226,5 @@ namespace DungeonGame.Dungeons.Generators
             Console.WriteLine("MinRegSizeMax = " + this.MinRegSizeMax);
         }
 
-
     }
 }
