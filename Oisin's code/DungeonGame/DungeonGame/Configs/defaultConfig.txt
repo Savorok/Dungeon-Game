@@ -1,0 +1,14 @@
+MaxHeight=20
+MinHeight=4
+MaxWidth=20 
+MinWidth=4
+SpaceMinMax=8
+SpaceMinMin=4
+SpaceMaxMax=16
+SpaceMaxMin=9
+SpaceSizeMinMax=6
+SpaceSizeMinMin=2
+SpaceSizeMaxMax=12
+SpaceSizeMaxMin=7
+MinRegSizeMin=2
+MinRegSizeMax=10
