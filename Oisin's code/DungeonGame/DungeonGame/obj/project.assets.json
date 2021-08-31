@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oisin\\Desktop\\Visual Studio Projects\\DungeonGame\\DungeonGame\\DungeonGame.csproj",
+      "projectUniqueName": "C:\\Users\\oisin\\Desktop\\github\\Dungeon-Game\\Oisin's code\\DungeonGame\\DungeonGame\\DungeonGame.csproj",
       "projectName": "DungeonGame",
-      "projectPath": "C:\\Users\\oisin\\Desktop\\Visual Studio Projects\\DungeonGame\\DungeonGame\\DungeonGame.csproj",
+      "projectPath": "C:\\Users\\oisin\\Desktop\\github\\Dungeon-Game\\Oisin's code\\DungeonGame\\DungeonGame\\DungeonGame.csproj",
       "packagesPath": "C:\\Users\\oisin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oisin\\Desktop\\Visual Studio Projects\\DungeonGame\\DungeonGame\\obj\\",
+      "outputPath": "C:\\Users\\oisin\\Desktop\\github\\Dungeon-Game\\Oisin's code\\DungeonGame\\DungeonGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oisin\\AppData\\Roaming\\NuGet\\NuGet.Config",
