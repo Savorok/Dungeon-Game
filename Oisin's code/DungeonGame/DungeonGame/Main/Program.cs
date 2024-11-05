@@ -17,7 +17,7 @@ namespace DungeonGame
         {
         
             DungeonGenerator DG = new DungeonGenerator("defaultConfig.txt");
-            Dungeon D = DG.GenerateDungeon(5);
+            Dungeon D = DG.GenerateDungeon(7);
 
           
             foreach(Level level in D.Levels)
