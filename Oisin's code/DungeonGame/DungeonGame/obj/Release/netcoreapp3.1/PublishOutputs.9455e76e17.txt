@@ -1,0 +1,5 @@
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\bin\Release\netcoreapp3.1\publish\DungeonGame.exe
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\bin\Release\netcoreapp3.1\publish\DungeonGame.dll
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\bin\Release\netcoreapp3.1\publish\DungeonGame.deps.json
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\bin\Release\netcoreapp3.1\publish\DungeonGame.runtimeconfig.json
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\bin\Release\netcoreapp3.1\publish\DungeonGame.pdb

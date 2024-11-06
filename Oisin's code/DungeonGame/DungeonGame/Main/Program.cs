@@ -5,6 +5,7 @@ using DungeonGame.Other;
 using System;
 using System.Collections.Generic;
 using DungeonGame.Actors.Player;
+using System.IO.Enumeration;
 
 namespace DungeonGame
 {
@@ -24,6 +25,8 @@ namespace DungeonGame
             {               
                 level.printLevel();               
             }
+
+            Console.ReadKey();
 
             
             //PlayerController pc = new PlayerController();

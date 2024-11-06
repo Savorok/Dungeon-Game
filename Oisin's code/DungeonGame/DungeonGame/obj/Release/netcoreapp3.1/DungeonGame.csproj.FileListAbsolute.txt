@@ -1,0 +1,14 @@
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\bin\Release\netcoreapp3.1\DungeonGame.exe
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\bin\Release\netcoreapp3.1\DungeonGame.deps.json
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\bin\Release\netcoreapp3.1\DungeonGame.runtimeconfig.json
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\bin\Release\netcoreapp3.1\DungeonGame.runtimeconfig.dev.json
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\bin\Release\netcoreapp3.1\DungeonGame.dll
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\bin\Release\netcoreapp3.1\DungeonGame.pdb
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\obj\Release\netcoreapp3.1\DungeonGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\obj\Release\netcoreapp3.1\DungeonGame.AssemblyInfoInputs.cache
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\obj\Release\netcoreapp3.1\DungeonGame.AssemblyInfo.cs
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\obj\Release\netcoreapp3.1\DungeonGame.csproj.CoreCompileInputs.cache
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\obj\Release\netcoreapp3.1\DungeonGame.sourcelink.json
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\obj\Release\netcoreapp3.1\DungeonGame.dll
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\obj\Release\netcoreapp3.1\DungeonGame.pdb
+C:\Users\oisin\Desktop\github\Dungeon-Game\Oisin's code\DungeonGame\DungeonGame\obj\Release\netcoreapp3.1\DungeonGame.genruntimeconfig.cache
