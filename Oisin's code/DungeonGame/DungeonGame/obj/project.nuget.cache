@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SZFiY4eWnCRVD3YGATrJ+FRrWdoZYYZPoUXSSETIXr3Eck30VF3hnIble3Uh186gpJcFnlHqsPzHqupfUIoTFw==",
+  "dgSpecHash": "B6hA4KWAE6Y=",
   "success": true,
   "projectFilePath": "C:\\Users\\oisin\\Desktop\\github\\Dungeon-Game\\Oisin's code\\DungeonGame\\DungeonGame\\DungeonGame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oisin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\oisin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\oisin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\oisin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+    "C:\\Users\\oisin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }
